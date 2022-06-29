@@ -61,7 +61,8 @@ import com.qualcomm.robotcore.util.ElapsedTime;
  * Remove or comment out the @Disabled line to add this opmode to the Driver Station OpMode list
  *
  * Test comment 6-27-2022
- * Test push 6-28-2022 using Android Studio
+ * test push MT
+ *
  */
 
 @TeleOp(name="Basic: Omni Linear OpMode", group="Linear Opmode")
